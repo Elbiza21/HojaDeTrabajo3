@@ -1,6 +1,5 @@
 import java.io.*;
 import java.util.*;
-import uvg.hdt3.ISorter;
 
 public class SortingProfiler {
     public static void main(String[] args) {
