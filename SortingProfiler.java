@@ -133,10 +133,14 @@ public class SortingProfiler {
     }
     
     private static void radixSort(int[] arr) {
-        // Implementación de Radix Sort
+        // Falta Radix Sort
     }
     
     private static void bucketSort(int[] arr) {
-        // Implementación de Bucket Sort
+        // Falta Bucket Sort
+    }
+
+    private static void customSort(int[] arr) {
+        // Falta meter un sort random
     }
 }
